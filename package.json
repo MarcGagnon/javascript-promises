@@ -1,0 +1,23 @@
+{
+  "name": "javascript-promises",
+  "version": "1.0.0",
+  "description": "Using .then, .catch and await.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcGagnon/javascript-promises.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcGagnon/javascript-promises/issues"
+  },
+  "homepage": "https://github.com/MarcGagnon/javascript-promises#readme",
+  "dependencies": {
+    "axios": "^1.2.2"
+  }
+}
