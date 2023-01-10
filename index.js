@@ -1,5 +1,7 @@
 const axiosRequest = require('axios')
 
+// Based on Javascript Promises vs Async Await EXPLAINED (in 5 minutes) by Roberts Dev Talk https://youtu.be/li7FzDHYZpc
+
 // let response = axiosRequest.get('https://boredapi.com/api/activity')
 // console.log(`You could ${response.data.activity}`)
 
